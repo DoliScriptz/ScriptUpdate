@@ -1,0 +1,4 @@
+getgenv().gui = false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DoliScriptz/FuseScript/main/Main.lua.text"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DoliScriptz/MM2Scripts-/main/Main.lua.text"))()
